@@ -37,7 +37,4 @@ body {
   background-color: black;
   color: white;
 }
-footer {
-  bottom: 0px;
-}
 </style>
