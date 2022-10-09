@@ -3,7 +3,7 @@
     <footer
       class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top"
     >
-      <p class="col-md-4 mb-0 text-muted">© 2021 Company, Inc</p>
+      <p class="col-md-4 mb-0 text-muted">© 2022 Dark Souls Int</p>
 
       <a
         href="/"
@@ -18,19 +18,19 @@
 
       <ul class="nav col-md-4 justify-content-end">
         <li class="nav-item">
-          <a href="#" class="nav-link px-2 text-muted">Home</a>
+          <a class="nav-link px-2 text-muted disabled"><h3>References:</h3> </a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link px-2 text-muted">Features</a>
+          <a href="https://www.wikipedia.org/" class="nav-link px-2 text-muted"
+            >Wikipedia</a
+          >
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link px-2 text-muted">Pricing</a>
-        </li>
-        <li class="nav-item">
-          <a href="#" class="nav-link px-2 text-muted">FAQs</a>
-        </li>
-        <li class="nav-item">
-          <a href="#" class="nav-link px-2 text-muted">About</a>
+          <a
+            href="https://store.steampowered.com/"
+            class="nav-link px-2 text-muted"
+            >Steam - Requirements</a
+          >
         </li>
       </ul>
     </footer>
